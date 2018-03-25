@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "/Users/hendrathings/Projects/prototype/dotnet-angular/ClientApp/typings/sparkline/index.d.ts",
+    "raw": "file:./ClientApp/typings/sparkline/index.d.ts",
+    "typings": "/Users/hendrathings/Projects/prototype/dotnet-angular/ClientApp/typings/sparkline/index.d.ts"
+  }
+}

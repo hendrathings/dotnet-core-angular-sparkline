@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "index": "file:./ClientApp/typings/sparkline/index.d.ts"
+  }
+}
